@@ -32,6 +32,7 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/function-component-definition': [2, { namedComponents: 'arrow-function' }],
     'max-len': [2, { code: 100 }],
-    '@typescript-eslint/no-explicit-any': 'error'
+    '@typescript-eslint/no-explicit-any': 'error',
+    '@typescript-eslint/strict-boolean-expressions': 'off'
   }
 };
