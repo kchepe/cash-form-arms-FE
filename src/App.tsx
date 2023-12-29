@@ -1,10 +1,10 @@
 import React, { type ReactNode } from 'react';
-import { TextField } from './common';
+import { Typography } from './common';
 
 const App = (): ReactNode => {
   return (
     <div>
-      <TextField label="Text" />
+      <Typography text="Home Page" variant="h6" />
     </div>
   );
 };

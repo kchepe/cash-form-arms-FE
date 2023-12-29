@@ -1,5 +1,3 @@
-import Paragraph from './Paragraph';
-import Text from './Text';
-import Title from './Title';
+import Typography from './Typography';
 
-export { Paragraph, Text, Title };
+export default Typography;

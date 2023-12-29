@@ -1,3 +1,3 @@
-export { default as Button } from './Button';
-export { default as InputBase } from './InputBase';
-export * from './Typography';
+export { default as TextField } from './TextField';
+export * from './buttons';
+export { default as Typography } from './Typography';
